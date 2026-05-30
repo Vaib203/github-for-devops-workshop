@@ -1,0 +1,18 @@
+git init - for initilzed the empty repo
+
+git status 
+
+git add testing.py = move from untracked to staging area
+
+git rm --cached testing.py = move back from staging area to untracked
+
+git commit -m "added to testing = move from staging to track area
+
+git restore testing.py = used for restore after deleting the file
+
+git remote add origin https://github.com/Vaib203/github-for-devops-workshop.git
+
+
+git push -u origin master = push local code to remote repo
+
+hello
