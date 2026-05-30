@@ -10,6 +10,8 @@ git commit -m "added to testing = move from staging to track area
 
 git restore testing.py = used for restore after deleting the file
 
+git remote set-url origin https://<token>@github.com/Vaib203/github-for-devops-workshop.git = this is for to set remote url with personal access tokens
+
 git remote add origin https://github.com/Vaib203/github-for-devops-workshop.git
 
 
